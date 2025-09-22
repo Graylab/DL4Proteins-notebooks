@@ -4,7 +4,7 @@
 
 **Welcome to DL4Proteins!**
 
-![Overview of Topics](images/topics_overview.png)
+![Overview of Topics](images/topics_overview.jpg)
 
 The goal of the DL4Proteins notebook series is to democratize deep learning for protein design and prediction, arriving at a transformative moment in science. With the 2024 Nobel Prize in Chemistry awarded to David Baker, Demis Hassabis, and John Jumper for breakthroughs in computational protein design and structural prediction, this resource provides an accessible, hands-on introduction to the very tools and methodologies that shaped this revolution. By blending foundational machine learning principles with state-of-the-art approaches such as AlphaFold, RFDiffusion, and ProteinMPNN, DL4Proteins equips researchers, educators, and students with the knowledge to contribute to the future of protein engineering. These open-source notebooks bridge the gap between cutting-edge research and classroom learning, fostering a new generation of innovators in synthetic biology and therapeutics.
 
