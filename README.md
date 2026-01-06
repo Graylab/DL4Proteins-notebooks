@@ -11,7 +11,7 @@ The goal of the DL4Proteins notebook series is to democratize deep learning for 
 The associated preprint presents a detailed pedagogical framework for this notebook series, describing the motivation, learning outcomes, and deep-learning principles underlying each notebook.
 
 #### Preprint: 
-.[DL4Proteins Jupyter Notebooks Teach how to use Artificial Intelligence for Biomolecular Structure Prediction and Design](https://arxiv.org/abs/2511.02128)
+[DL4Proteins Jupyter Notebooks Teach how to use Artificial Intelligence for Biomolecular Structure Prediction and Design](https://arxiv.org/abs/2511.02128)
 
 The Jupyter notebooks below provide an introduction to the fundamental machine learning concepts and models currently utilized in the protein design space. Notebooks can be run in Google Colaboratory.
 
