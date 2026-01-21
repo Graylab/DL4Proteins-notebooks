@@ -1,4 +1,4 @@
-# DL4Proteins Workshops (Beta release)
+# Deep Learning for Proteins (DL4Proteins) Workshops
 
 ![Cell Motherboard Wallpaper](images/cell_motherboard.png)
 
