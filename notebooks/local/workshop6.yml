@@ -1,0 +1,14 @@
+name: workshop6
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core
+  - matplotlib
+  - pillow
+
+  # Optional but commonly useful
+  - pip

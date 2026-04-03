@@ -1,0 +1,24 @@
+name: workshop8
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core
+  - matplotlib
+  - tqdm
+
+  # PyTorch (CPU)
+  - pytorch
+  - torchvision
+  - torchaudio
+
+  # Jupyter support (for %matplotlib inline)
+  - ipython
+  - notebook
+
+  # Optional
+  - pip

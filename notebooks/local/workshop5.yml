@@ -1,0 +1,27 @@
+name: workshop5
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core
+  - numpy
+  - matplotlib
+
+  # PyTorch (CPU for macOS)
+  - pytorch
+  - torchvision
+  - torchaudio
+
+  # Jupyter / interactive
+  - ipython
+  - ipywidgets
+
+  # Pip-only packages
+  - pip
+  - pip:
+      - transformers
+      - peft

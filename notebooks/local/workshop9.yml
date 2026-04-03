@@ -1,0 +1,23 @@
+name: workshop9
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core
+  - numpy
+  - matplotlib
+
+  # Jupyter / interactive display
+  - ipython
+  - ipywidgets
+
+  # Visualization
+  - py3dmol
+
+  # Utilities
+  - pip
+  - pip:
+      - colabdesign

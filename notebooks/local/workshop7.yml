@@ -1,0 +1,33 @@
+name: workshop7
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+
+dependencies:
+  - python=3.10
+
+  # Core scientific stack
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - networkx
+
+  # Biology / structure tools
+  - biopython
+  - biopandas
+
+  # PyTorch (CPU)
+  - pytorch
+  - torchvision
+  - torchaudio
+
+  # Pip for harder-to-resolve packages
+  - pip
+  - pip:
+      - graphein
+      - biovec
+      - biographs
+      - torch-geometric
+      - pytorch3d
