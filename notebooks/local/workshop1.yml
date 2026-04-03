@@ -1,0 +1,10 @@
+name: workshop1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.13
+  - pip
+  - numpy=2.0.2
+  - matplotlib=3.10.0
+  - pip:
+      - nnfs==0.5.1

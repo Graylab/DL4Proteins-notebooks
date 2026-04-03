@@ -1,0 +1,14 @@
+name: workshop3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.13
+  - numpy=2.0.2
+  - matplotlib=3.10.0
+  - scipy=1.16.3
+  - pytorch=2.10.0
+  - torchvision=0.25.0
+  - pip
+  - pip:
+      - wandb==0.25.1
